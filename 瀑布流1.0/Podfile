@@ -1,7 +1,0 @@
-platform :ios, '9.0'
-use_frameworks!
-
-target 'ITDemo001' do
-  pod 'AFNetworking'
-  pod 'Masonry', '~> 0.6.4'
-end
